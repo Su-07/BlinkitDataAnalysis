@@ -1,5 +1,4 @@
 # BlinkitDataAnalysis
-# BlinkitDataAnalysis
 🚀 Blinkit Sales & Outlet Performance Dashboard
 A comprehensive Power BI dashboard designed to analyze Blinkit’s outlet sales, product demand, and customer ratings across various regions and outlet types.
 
